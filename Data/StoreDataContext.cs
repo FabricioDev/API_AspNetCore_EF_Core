@@ -19,6 +19,5 @@ namespace ProductCatalog.Data
             builder.ApplyConfiguration(new ProductMap());
             builder.ApplyConfiguration(new CategoryMap());
         }
-
     }
 }
